@@ -3,9 +3,9 @@ import PropTypes from 'prop-types';
 
 import './Button.scss';
 
-const Button = ({ text, onClick, className }) => {
+const Button = ({ text, onClick, type }) => {
     return (
-        <button className={`button ${className}`} type='button' onClick={onClick}>{text}</button>
+        <button className={`button ${type}`} type='button' onClick={onClick}>{text}</button>
     );
 };
 

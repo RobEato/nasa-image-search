@@ -5,14 +5,14 @@ import SearchResults from '../__tests__/fixtures/submitSearchResponse.json';
 
 describe('Nasa search results', () => {
     test('should render given search results', () => {
-        render(<NasaSearchResults searchResults={SearchResults.collection} />);
+        render(<NasaSearchResults selectAsset={() => {}} pageNumber={1} setPageNumber={() => {}} searchResults={SearchResults.collection} />);
 
         expect(screen.getByText('941 results found')).toBeInTheDocument();
         expect(screen.getAllByTestId('search-result')).toHaveLength(100);
     });
 
     test('should render a message when no results found', () => {
-        render(<NasaSearchResults searchResults={{ items: [], metadata: { total_hits: 0 } }} />);
+        render(<NasaSearchResults selectAsset={() => {}} pageNumber={1} setPageNumber={() => {}} searchResults={{ items: [], metadata: { total_hits: 0 } }} />);
 
         expect(screen.getByText('0 results found')).toBeInTheDocument();
         expect(screen.getByText('No search results found. Please try again.')).toBeInTheDocument();
@@ -20,11 +20,11 @@ describe('Nasa search results', () => {
     });
 
     test('should render pagination when available', () => {
-        render(<NasaSearchResults searchResults={SearchResults.collection} />);
+        render(<NasaSearchResults selectAsset={() => {}} pageNumber={1} setPageNumber={() => {}} searchResults={SearchResults.collection} />);
 
         expect(screen.getByText('941 results found')).toBeInTheDocument();
         expect(screen.getAllByTestId('search-result')).toHaveLength(100);
 
-        expect(screen.getByText('Load more')).toBeInTheDocument();
+        expect(screen.getByText('Load next')).toBeInTheDocument();
     });
 });

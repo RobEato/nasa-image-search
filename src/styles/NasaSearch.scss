@@ -64,4 +64,10 @@
             }
         }
     }
+
+    &__options {
+        display: flex;
+        align-items: center;
+        margin: 1.25rem 0 .5rem 0;
+    }
 }

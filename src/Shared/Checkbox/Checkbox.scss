@@ -1,0 +1,42 @@
+@import "../Styles/Variables.scss";
+@import "../Styles/Mixins.scss";
+
+.checkbox {
+    margin-right: 1.5rem;
+    display: flex;
+    align-items: center;
+
+    label {
+        cursor: pointer;
+    }
+
+    div {
+        border-radius: 6px;
+        border: 1px solid $border-colour;
+        transition: border-color 0.2s, box-shadow 0.4s;
+        margin-right: 0.5rem;
+        box-shadow: 0 0 0 0 transparent;
+        box-sizing: border-box;
+
+        input {
+            width: 26px;
+            height: 26px;
+            opacity: 0;
+            cursor: pointer;
+        }
+
+        &:hover {
+            border-color: $border-hover-colour;
+        }
+
+        &.selected {
+            box-shadow: 0 0 0 1px $colour-black;
+            border-color: $colour-black;
+            z-index: 1;
+            background-position: center;
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-image: url("data:image/svg+xml,%3Csvg height='36' viewBox='0 0 36 36' width='36' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='m22.1923882 14-5.6568543 5.6568542-2.1213203-2.1213203-1.4142136 1.4142136 3.5355339 3.5355339 7.0710678-7.0710678z' fill-rule='evenodd'/%3E%3C/svg%3E");
+        }
+    }
+}

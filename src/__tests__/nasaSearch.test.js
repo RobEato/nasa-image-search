@@ -20,6 +20,7 @@ describe('Nasa search', () => {
         fireEvent.input(searchInput, { target: { value: 'helmet' } });
         fireEvent.submit(searchInput);
         expect(submitSearch).toHaveBeenCalled();
+        expect(submitSearch).toHaveBeenCalledWith('helmet', true, true);
     });
 
     test('should call the search enpoint when clicking the search icon', () => {
@@ -30,6 +31,19 @@ describe('Nasa search', () => {
         const searchInput = screen.getByPlaceholderText('Please enter a search term');
         fireEvent.input(searchInput, { target: { value: 'helmet' } });
         fireEvent.click(screen.getByTestId('nasa-search-icon'));
-        expect(submitSearch).toHaveBeenCalled();
+    });
+
+    describe('Checkboxes', () => {
+        test('should render the image & video checkboxes as true by default', () => {
+            const submitSearch = jest.fn();
+
+            render(<NasaSearch submitSearch={submitSearch} />);
+
+            const imageCheckbox = screen.getByLabelText('Images');
+            const videoCheckbox = screen.getByLabelText('Videos');
+
+            expect(imageCheckbox).toHaveAttribute('checked');
+            expect(videoCheckbox).toHaveAttribute('checked');
+        });
     });
 });

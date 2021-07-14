@@ -11,7 +11,10 @@ const api = {
     getAlbum: () => Promise.resolve()
 };
 
-test('renders the App', () => {
-  render(<App nasaApi={api} />);
-  expect(screen.getByText('NASA Search')).toBeInTheDocument();
+describe('Nasa App', () => {
+    test('should render the App', () => {
+        render(<App nasaApi={api} />);
+        expect(screen.getByText('NASA Search')).toBeInTheDocument();
+    });
 });
+

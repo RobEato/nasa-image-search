@@ -10,10 +10,21 @@
     padding: .5rem 1rem;
     width: 100%;
     max-width: 200px;
-    transition: border-color 0.2s;
+    transition: border-color 0.2s, color 0.2s, background-color 0.3s;
     cursor: pointer;
+    letter-spacing: .5px;
+    font-weight: bold;
+    line-height: 1;
 
     &:hover {
-        border-color: $border-hover-colour;
+        background-color: $colour-black;
+        border-color: $colour-black;
+        color: $colour-white;
+    }
+
+    &.secondary {
+        height: 32px;
+        font-size: 14px;
+        padding: .5rem
     }
 }
