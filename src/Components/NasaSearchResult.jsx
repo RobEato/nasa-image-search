@@ -3,8 +3,11 @@ import PropTypes from 'prop-types';
 
 const NasaSearchResult = ({ item }) => {
     return (
-        <div className='search-result'>
-           <h1>{item.data[0].title}</h1>
+        <div className='search-result' data-testid='search-result'>
+            {
+                item.links && item.links[0].href &&
+                <img src={item.links[0].href} alt={item.data[0].title} />
+            }
         </div>
     );
 };

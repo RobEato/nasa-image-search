@@ -1,6 +1,6 @@
 import { render, screen, fireEvent, act } from '@testing-library/react';
 
-import NasaSearch from '../Components/NasaSearch';
+import NasaSearch from '../components/NasaSearch';
 
 describe('Nasa search', () => {
     test('should render the search input', () => {

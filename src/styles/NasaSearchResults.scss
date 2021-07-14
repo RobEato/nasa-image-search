@@ -1,5 +1,61 @@
-.nasa-search-results {
-    .search-result {
+@import "../Shared/Styles/Variables.scss";
+@import "../Shared/Styles/Mixins.scss";
 
+.nasa-search-results {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 2rem 0;
+    width: 100%;
+
+    &__total {
+        font-weight: bold;
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+
+    &__empty {
+        width: 100%;
+        text-align: center;
+    }
+
+    &__pagination {
+        width: 100%;
+        text-align: center;
+        margin: 2rem;
+    }
+
+    .search-result {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 49%;
+        margin-bottom: 1rem;
+        background: $colour-white;
+        border-radius: 6px;
+        border: 1px solid $border-colour;
+        box-sizing: border-box;
+        transition: border-color 0.2s;
+        cursor: pointer;
+        overflow: hidden;
+        height: 150px;
+        max-height: 150px;
+
+        @include mq('tablet', 'min') {
+            width: 32%;
+        }
+
+        @include mq('desktop', 'min') {
+            width: 24%;
+        }
+
+        &:hover {
+            border-color: $border-hover-colour;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+        }
     }
 }

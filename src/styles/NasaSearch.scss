@@ -1,3 +1,6 @@
+@import "../Shared/Styles/Variables.scss";
+@import "../Shared/Styles/Mixins.scss";
+
 .nasa-search {
     width: 100%;
     max-width: 400px;
@@ -12,7 +15,7 @@
         border-radius: 6px;
 
         &:focus-within {
-            box-shadow: 0 0 0 1px #000;
+            box-shadow: 0 0 0 1px $colour-black;
             z-index: 1;
         }
 
@@ -21,24 +24,24 @@
             -moz-box-sizing: border-box;
             -webkit-appearance: none;
             -webkit-box-sizing: border-box;
-            background: #fff;
+            background: $colour-white;
             height: 48px;
             border-radius: 6px 0 0 6px;
-            border: 1px solid #d8d8d8;
+            border: 1px solid $border-colour;
             border-right: none;
             font-size: 16px;
-            padding: 0 1em 0;
+            padding: 0 1rem 0;
             width: 100%;
             transition: border-color 0.2s;
             box-shadow: none;
             box-sizing: border-box;
 
             &:hover {
-                border-color: #595959;
+                border-color: $border-hover-colour;
             }
 
             &:focus {
-                border-color: #000;
+                border-color: $colour-black;
                 outline: none;
             }
         }
@@ -50,14 +53,14 @@
             height: 48px;
             width: 48px;
             padding: 0 0.5rem;
-            background-color: #000;
+            background-color: $colour-black;
             border-radius: 0 6px 6px 0;
             cursor: pointer;
-            border: 1px solid #000;
+            border: 1px solid $colour-black;
             box-sizing: border-box;
 
             svg {
-                fill: #fff;
+                fill: $colour-white;
             }
         }
     }

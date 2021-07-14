@@ -1,0 +1,16 @@
+$colour-black: #000000;
+$colour-white: #ffffff;
+$colour-grey: #d8d8d8;
+$colour-dark-grey: #595959;
+$colour-red: red;
+
+$colour-error: $colour-red;
+
+$border-colour: $colour-grey;
+$border-hover-colour: $colour-dark-grey;
+
+$breakpoints: (
+    "desktop": 1280px,
+    "tablet": 768px,
+    "mobile": 320px
+);

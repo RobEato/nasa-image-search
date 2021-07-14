@@ -1,29 +1,50 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 
-import NasaSearch from './Components/NasaSearch';
-import NasaSearchResults from './Components/NasaSearchResults';
+import NasaSearch from './components/NasaSearch';
+import NasaSearchResults from './components/NasaSearchResults';
+
+import LoadingSpinner from './Shared/LoadingSpinner/LoadingSpinner';
 
 import './App.scss';
 
 const App = ({ nasaApi }) => {
 
+    const [loading, setLoading] = useState(false);
+    const [noSearchQueryError, setNoSearchQueryError] = useState(false);
     const [searchResults, setSearchResults] = useState(null);
 
     const submitSearch = (searchQuery) => {
-        return nasaApi.search(searchQuery)
-            .then(results => {
-                setSearchResults(results.collection);
-            });
+        setLoading(true);
+        setNoSearchQueryError(false);
+
+        if (searchQuery) {
+            return nasaApi.search(searchQuery)
+                .then(result => {
+                    setSearchResults(result.collection);
+                });
+        } else {
+            setSearchResults(null);
+            setNoSearchQueryError(true);
+            setLoading(false);
+        }
     };
+
+    useEffect(() => {
+        setLoading(false);
+    }, [searchResults]);
 
     return (
         <div className='nasa-main'>
-            <div className='nasa-main-container'>
-                <h1 className='nasa-main-title'>NASA Search</h1>
-                <NasaSearch submitSearch={submitSearch} />
+            <div className='nasa-main__container'>
+                <h1 className='nasa-main__title'>NASA Search</h1>
                 {
-                    searchResults &&
-                    <NasaSearchResults searchResults={searchResults} />
+                    loading ?
+                        <LoadingSpinner /> :
+                        <>
+                            <NasaSearch submitSearch={submitSearch} />
+                            {noSearchQueryError && <p className='nasa-main__no-search-term'>Please enter a search term</p>}
+                            {searchResults && <NasaSearchResults searchResults={searchResults} />}
+                        </>
                 }
             </div>
         </div>

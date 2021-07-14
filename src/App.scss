@@ -1,14 +1,23 @@
+@import "./Shared/Styles/Variables.scss";
+@import "./Shared/Styles/Mixins.scss";
+
 .nasa-main {
+    max-width: 1400px;
+    margin: 0 auto;
     min-height: 100vh;
     
-    &-container {
+    &__container {
         display: flex;
         flex-direction: column;
         align-items: center;
         padding: 1rem;
     }
 
-    &-title {
+    &__title {
         margin-bottom: 2rem;
-    } 
+    }
+
+    &__no-search-term {
+        color: $colour-error;
+    }
 }
