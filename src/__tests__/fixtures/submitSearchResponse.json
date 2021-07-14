@@ -1,0 +1,2433 @@
+{
+    "collection": {
+        "metadata": {
+            "total_hits": 941
+        },
+        "version": "1.0",
+        "href": "http://images-api.nasa.gov/search?q=helmet",
+        "links": [
+            {
+                "prompt": "Next",
+                "href": "http://images-api.nasa.gov/search?q=helmet&page=2",
+                "rel": "next"
+            }
+        ],
+        "items": [
+            {
+                "href": "https://images-assets.nasa.gov/image/PIA13083/collection.json",
+                "data": [
+                    {
+                        "description": "This heroic image from from NASA Wide-field Infrared Survey Explorer is of a special cloud of dust and gas in the constellation Canis Major catalogued as NGC 2359, or more commonly known as Thor Helmet.",
+                        "media_type": "image",
+                        "keywords": [
+                            "Wide-field Infrared Survey Explorer WISE"
+                        ],
+                        "secondary_creator": "NASA/JPL-Caltech/UCLA",
+                        "center": "JPL",
+                        "title": "Thor Helmet",
+                        "date_created": "2010-04-30T21:57:06Z",
+                        "nasa_id": "PIA13083",
+                        "description_508": "This heroic image from from NASA Wide-field Infrared Survey Explorer is of a special cloud of dust and gas in the constellation Canis Major catalogued as NGC 2359, or more commonly known as Thor Helmet."
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/PIA13083/PIA13083~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/EC02-0176-6/collection.json",
+                "data": [
+                    {
+                        "description": "Jeff Greulich, DynCorp life support technician, adjusts a prototype helmet on pilot Craig Bomben at NASA Dryden Flight Research Center, Edwards, Calif. Built by Gentex Corp., Carbondale, Pa., the helmet was evaluated by five NASA pilots during the summer and fall of 2002. The objective was to obtain data on helmet fit, comfort and functionality. The inner helmet of the modular system is fitted to the individual crewmember. The outer helmet features a fully integrated spectral mounted helmet display and a binocular helmet mounted display.  The helmet will be adaptable to all flying platforms. The Dryden evaluation was overseen by the Center's Life Support office. Assessments have taken place during normal proficiency flights and some air-to-air combat maneuvering. Evaluation platforms included the F-18, B-52 and C-12. The prototype helmet is being developed by the Naval Air Science and Technology Office and the Aircrew Systems Program Office, Patuxent River, Md.",
+                        "media_type": "image",
+                        "keywords": [
+                            "helmet",
+                            "Gentex Corp.",
+                            "Dryden's Life Support office",
+                            "Naval Air Science and Technology Office",
+                            "Naval Aircrew Systems Program Office"
+                        ],
+                        "date_created": "2002-08-07T00:00:00Z",
+                        "center": "AFRC",
+                        "title": "Jeff Greulich, DynCorp life support technician, adjusts a prototype helmet on a NASA Dryden pilot. Five pilots evaluated the helmet for fit, comfort and functionality during the summer and fall of 2002.",
+                        "photographer": "NASA/Tony Landis",
+                        "nasa_id": "EC02-0176-6",
+                        "location": "AFRC"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/EC02-0176-6/EC02-0176-6~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/S86-25182/collection.json",
+                "data": [
+                    {
+                        "description": "S86-25182 (for release January 1986) --- Sharon Christa McAuliffe, STS-51L citizen observer/payload specialist, prepares to remove her helmet after participating in emergency egress training in the shuttle mock-up and integration lab at the Johnson Space Center. McAuliffe will represent the Teacher-in-Space Project aboard the Challenger when it launches in late January. The photo was taken by Keith Meyers of the New York Times. Photo credit: NASA",
+                        "media_type": "image",
+                        "keywords": [
+                            "EGRESS",
+                            "HELMETS",
+                            "MOCK-UP",
+                            "PAYLOAD SPECIALISTS",
+                            "SPACE SHUTTLE MISSION 51-L",
+                            "TRAINING"
+                        ],
+                        "center": "JSC",
+                        "title": "Christa McAuliffe removing helmet after egress training",
+                        "date_created": "1986-01-08T00:00:00Z",
+                        "nasa_id": "S86-25182"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/S86-25182/S86-25182~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/EC02-0176-12/collection.json",
+                "data": [
+                    {
+                        "description": "Research pilots from the NASA Dryden Flight Research Center, Edwards, Calif., tested a prototype two-part helmet. Built by Gentex Corp., Carbondale, Pa., the helmet was evaluated by five NASA pilots during the summer and fall of 2002. The objective was to obtain data on helmet fit, comfort and functionality. The inner helmet of the modular system is fitted to the individual crewmember. The outer helmet features a fully integrated spectral mounted helmet display and a binocular helmet mounted display. The helmet will be adaptable to all flying platforms.  The Dryden evaluation was overseen by the Center's Life Support office. Assessments have taken place during normal proficiency flights and some air-to-air combat maneuvering. Evaluation platforms included the F-18, B-52 and C-12. The prototype helmet is being developed by the Naval Air Science and Technology Office and the Aircrew Systems Program Office, Patuxent River, Md.",
+                        "media_type": "image",
+                        "keywords": [
+                            "helmet",
+                            "Gentex Corp.",
+                            "Dryden's Life Support office",
+                            "Naval Air Science and Technology Office",
+                            "Naval Aircrew Systems Program Office"
+                        ],
+                        "date_created": "2002-08-07T00:00:00Z",
+                        "center": "AFRC",
+                        "title": "Research pilots at NASA Dryden tested a prototype helmet during the summer and fall of 2002. The objective was to obtain data on fit, comfort and functionality.",
+                        "photographer": "NASA/Tony Landis",
+                        "nasa_id": "EC02-0176-12",
+                        "location": "AFRC"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/EC02-0176-12/EC02-0176-12~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/iss014e13499/collection.json",
+                "data": [
+                    {
+                        "description": "ISS014-E-13499 (7 Feb. 2007) --- Astronaut Sunita L. Williams, Expedition 14 flight engineer, works with the helmet of her Extravehicular Mobility Unit (EMU) spacesuit in the Quest Airlock of the International Space Station as she prepares for the final of three sessions of extravehicular activity (EVA) in nine days, scheduled for Feb. 8.",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "Williams with EMU helmet in Quest airlock",
+                        "date_created": "2007-02-07T00:00:00Z",
+                        "nasa_id": "iss014e13499"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/iss014e13499/iss014e13499~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s105e5228/collection.json",
+                "data": [
+                    {
+                        "description": "STS105-E-5228 (16 August 2001) --- Closeup view of the helmet visor and upper torso of astronaut Patrick G. Forrester during early stages of the first space walk on STS-105. Most of the cargo bay of the Space Shuttle Discovery is reflected in the helmet. The image was recorded with a digital still camera.",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "Close-up of helmet and visor of Barry during the first EVA",
+                        "date_created": "2001-08-16T00:00:00Z",
+                        "nasa_id": "s105e5228"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s105e5228/s105e5228~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s63-03984/collection.json",
+                "data": [
+                    {
+                        "description": "S63-03984 (1963) --- Astronaut L. Gordon Cooper Jr., prime pilot for the Mercury-Atlas 9 (MA-9) mission, is pictured just after his helmet had been removed. He has just spent approximately five hours in the spacecraft during altitude chamber tests. Photo credit: NASA",
+                        "media_type": "image",
+                        "keywords": [
+                            "ALTITUDE SIMULATION"
+                        ],
+                        "center": "JSC",
+                        "title": "Astrobnaut Cooper - Pre-Helmet Removal - Altitude Chamber",
+                        "date_created": "1963-01-01T00:00:00Z",
+                        "nasa_id": "s63-03984"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s63-03984/s63-03984~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/iss010e21093/collection.json",
+                "data": [
+                    {
+                        "description": "ISS010-E-21093 (22 March 2005) --- Astronaut Leroy Chiao, Expedition 10 commander and NASA ISS science officer, appears as a small reflection in a helmet visor in the Pirs Docking Compartment of the International Space Station (ISS).",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "Chiao appears as a small reflection in a helmet visor in the Pirs DC1",
+                        "date_created": "2005-03-22T00:00:00Z",
+                        "nasa_id": "iss010e21093"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/iss010e21093/iss010e21093~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/iss013e29011/collection.json",
+                "data": [
+                    {
+                        "description": "ISS013-E-29011 (1 June 2006) --- A close-up view shows the face of cosmonaut Pavel V. Vinogradov, Expedition 13 commander representing Russia's Federal Space Agency, through his helmet visor during the first session of extravehicular activity (EVA) performed by the Expedition 13 crew during their six-month mission. Vinogradov was attired in a Russian Orlan spacesuit.",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "Vinogradovs helmet during Ex;pedition 13 EVA",
+                        "date_created": "2006-06-02T00:00:00Z",
+                        "nasa_id": "iss013e29011"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/iss013e29011/iss013e29011~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/sts103-302-002/collection.json",
+                "data": [
+                    {
+                        "description": "STS103-302-002 (19- 27 December 1999)---.The Space Shuttle Discovery's Cargo Bay and Crew Module, and the Earth's horizon are reflected in the helmet visor of one of the space walking astronauts on STS-103..Astronauts Steven L. Smith, John M. Grunsfeld, C. Michael Foale and Claude Nicollier participated in three days of.extravehicular activity on the NASA's third servicing visit to the Hubble Space Telescope (HST).",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "Reflection of payload bay in EMU helmet during EVA",
+                        "date_created": "2000-01-05T00:00:00Z",
+                        "nasa_id": "sts103-302-002"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/sts103-302-002/sts103-302-002~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s90-41525/collection.json",
+                "data": [
+                    {
+                        "description": "STS-38 Pilot Frank L. Culbertson gives \"thumbs up\" before climbing into the T-38A NASA 955 forward cockpit. Crewmembers are preparing for departure from Ellington Field to the Kennedy Space Center (KSC). Culbertson's bright yellow helmet is displayed in front of him.",
+                        "media_type": "image",
+                        "keywords": [
+                            "ASTRONAUTS",
+                            "CREWS",
+                            "HELMETS",
+                            "RUNWAYS",
+                            "STS-38",
+                            "SUNGLASSES",
+                            "T-38"
+                        ],
+                        "center": "JSC",
+                        "title": "STS-38 Pilot Culbertson gives \"thumbs up\" from T-38A at Ellington Field",
+                        "date_created": "1990-06-18T00:00:00Z",
+                        "nasa_id": "s90-41525"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s90-41525/s90-41525~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/S85-40030/collection.json",
+                "data": [
+                    {
+                        "description": "S85-40030 (November 1985) --- Payload specialist Sharon Christa McAuliffe is briefed on launch/entry helmets by crew systems technician Alan M. Rochford in the Johnson Space Center’s crew systems lab. McAuliffe is one of seven crew members in training for STS-51L flight scheduled for January 1986. Photo credit: NASA",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "Payload Specialist (PS) Christa McAuliffe - Briefing - Launch/Entry Helmets - JSC",
+                        "date_created": "1985-09-12T00:00:00Z",
+                        "nasa_id": "S85-40030"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/S85-40030/S85-40030~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/S85-40031/collection.json",
+                "data": [
+                    {
+                        "description": "S85-40031 (November 1985) --- Payload specialist Sharon Christa McAuliffe is briefed on launch/entry helmets by crew systems technician Alan M. Rochford in the Johnson Space Center’s crew systems lab. McAuliffe is one of seven crew members in training for STS-51L flight scheduled for January 1986. Photo credit: NASA",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "Payload Specialist Christa McAuliffe Briefing - Launch/Entry Helmets - JSC",
+                        "date_created": "1985-09-12T00:00:00Z",
+                        "nasa_id": "S85-40031"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/S85-40031/S85-40031~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s65-41886/collection.json",
+                "data": [
+                    {
+                        "description": "S65-41886 (22 July 1965) --- Astronaut L. Gordon Cooper Jr. makes adjustments to his helmet during suiting up exercise at Pad 16, Cape Kennedy, Florida. He is preparing for the Gemini-5 spaceflight. Photo credit: NASA",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "GEMINI-TITAN (GT)-5 - TRAINING - SUITING-UP (ADJUSTS HELMET) - CAPE",
+                        "date_created": "1965-07-22T00:00:00Z",
+                        "nasa_id": "s65-41886"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s65-41886/s65-41886~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/S85-40029/collection.json",
+                "data": [
+                    {
+                        "description": "S85-40029 (November 1985) --- Payload specialist Sharon Christa McAuliffe is briefed on launch/entry helmets by crew systems technician Alan M. Rochford in the Johnson Space Center’s crew systems lab. McAuliffe is one of seven crew members in training for STS-51L flight scheduled for January 1986. Photo credit: NASA",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "Payload specialist Christa McAuliffe briefed on launch/entry helmets",
+                        "date_created": "1985-09-12T00:00:00Z",
+                        "nasa_id": "S85-40029"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/S85-40029/S85-40029~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/sts113-305-007/collection.json",
+                "data": [
+                    {
+                        "description": "STS113-305-007 (26 November 2002) --- Astronaut John B. Herrington, STS-113 mission specialist, participates in the mission&#0146;s first spacewalk. The opened hatch of the Quest Airlock can be seen reflected in Herrington&#0146;s helmet visor.",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "Lopez-Alegria reflected in Herrington's helmet during STS-113 EVA 1",
+                        "date_created": "2002-11-27T00:00:00Z",
+                        "nasa_id": "sts113-305-007"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/sts113-305-007/sts113-305-007~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/S90-54683/collection.json",
+                "data": [
+                    {
+                        "description": "Astronaut N. Jan Davis, with her arms over her head, adjusts her helmet visor during crewmember shuttle suit fit check conducted at JSC's Crew Systems Laboratory Bldg 7.",
+                        "media_type": "image",
+                        "keywords": [
+                            "ASTRONAUT TRAINING",
+                            "ASTRONAUTS",
+                            "EVALUATION",
+                            "EXTRAVEHICULAR MOBILITY UNITS",
+                            "HELMETS",
+                            "STS-47",
+                            "TESTING"
+                        ],
+                        "center": "JSC",
+                        "title": "Astronaut N. Jan Davis participates in EMU suit fitcheck at JSC",
+                        "date_created": "1990-12-13T00:00:00Z",
+                        "nasa_id": "S90-54683"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/S90-54683/S90-54683~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s90-41528/collection.json",
+                "data": [
+                    {
+                        "description": "STS-38 Pilot Frank L. Culberston, smiling and wearing his helmet with breathing apparatus attached, sits in T-38A NASA 955 forward cockpit at Ellington Field and prepares for departure.",
+                        "media_type": "image",
+                        "keywords": [
+                            "ASTRONAUTS",
+                            "BREATHING APPARATUS",
+                            "CANOPIES",
+                            "COCKPITS",
+                            "CREWS",
+                            "HELMETS",
+                            "STS-38",
+                            "T-38"
+                        ],
+                        "center": "JSC",
+                        "title": "STS-38 Pilot Culberston in T-38A NASA 955 forward cockpit at Ellington Field",
+                        "date_created": "1990-06-18T00:00:00Z",
+                        "nasa_id": "s90-41528"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s90-41528/s90-41528~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/0601078/collection.json",
+                "data": [
+                    {
+                        "description": "Astronaut Michael E. Fossum, STS-121 mission specialist, used a digital still camera to expose a photo of his helmet visor during a session of extravehicular activity (EVA) while Space Shuttle Discovery was docked with the International Space Station (ISS). Also visible in the visor reflections are fellow space walker Piers J. Sellers, mission specialist, Earth's horizon, and a station solar array. During its 12-day mission, this utilization and logistics flight delivered a multipurpose logistics module (MPLM) to the ISS with several thousand pounds of new supplies and experiments. In addition, some new orbital replacement units (ORUs) were delivered and stowed externally on the ISS on a special pallet. These ORUs are spares for critical machinery located on the outside of the ISS. During this mission the crew also carried out testing of Shuttle inspection and repair hardware, as well as evaluated operational techniques and concepts for conducting on-orbit inspection and repair. ",
+                        "media_type": "image",
+                        "keywords": [
+                            "STS-121",
+                            "EVA",
+                            "Fossum",
+                            "Helmet",
+                            "Sellers"
+                        ],
+                        "center": "MSFC",
+                        "title": "International Space Station (ISS)",
+                        "date_created": "2006-07-08T00:00:00Z",
+                        "nasa_id": "0601078"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/0601078/0601078~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/S84-27020/collection.json",
+                "data": [
+                    {
+                        "description": "S84-27020 (7 Feb 1984) --- A fixed camera on astronaut Bruce McCandless II's helmet recorded this rare scene of the Space Shuttle Challenger some 50 to 60 meters away during a history-making extravehicular activity (EVA), February 7, 1984.  The Shuttle Pallet Satellite (SPAS-01A) is configured mid-cargo bay.  Astronaut Robert L. Stewart, standing beneath the Remote Manipulator System (RMS) arm, later donned the same Manned Maneuvering Unit (MMU) which afforded McCandless the freedom of movement to record this image.  Also visible in the cargo bay are the support stations for the two MMU back-packs, the sunshields for the Palapa B and Westar VI Satellites, KU-Band antenna and a number of Getaway Special (GAS) canisters.",
+                        "media_type": "image",
+                        "keywords": [
+                            "ANTENNAS",
+                            "ASTRONAUTS",
+                            "CHALLENGER (ORBITER)",
+                            "EXTRAVEHICULAR ACTIVITY",
+                            "GET AWAY SPECIALS (STS)",
+                            "PAYLOAD BAY",
+                            "REMOTE MANIPULATOR SYSTEM",
+                            "SATELLITES SHUTTLE PALLET SATELLITES",
+                            "SPACE SHUTTLE MISSION 41-B"
+                        ],
+                        "center": "JSC",
+                        "title": "View of the Challenger from the fixed camera in McCandless's helmet",
+                        "date_created": "1984-02-11T00:00:00Z",
+                        "nasa_id": "S84-27020"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/S84-27020/S84-27020~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/6872212/collection.json",
+                "data": [
+                    {
+                        "description": "Apollo 8 Astronaut William Anders, Lunar Module (LM) pilot, adjusts his helmet as he suits up for the Apollo 8 mission. The first manned Apollo mission launched aboard the Saturn V and first manned Apollo craft to enter lunar orbit, the SA-503, Apollo 8 mission lift off occurred on December 21, 1968 and returned safely to Earth on December 27, 1968. Aboard were Anders and fellow astronauts James Lovell, Command Module (CM) pilot; and Frank Borman, commander. The mission achieved operational experience and tested the Apollo command module systems, including communications, tracking, and life-support, in cis-lunar space and lunar orbit, and allowed evaluation of crew performance on a lunar orbiting mission. The crew photographed the lunar surface, both far side and near side, obtaining information on topography and landmarks as well as other scientific information necessary for future Apollo landings. All systems operated within allowable parameters and all objectives of the mission were achieved.    ",
+                        "media_type": "image",
+                        "keywords": [
+                            "Apollo 8",
+                            "Anders",
+                            "Suit up",
+                            "Helmet"
+                        ],
+                        "center": "MSFC",
+                        "title": "Saturn Apollo Program",
+                        "date_created": "1968-12-21T00:00:00Z",
+                        "nasa_id": "6872212"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/6872212/6872212~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/41D-3183/collection.json",
+                "data": [
+                    {
+                        "description": "41D-3183 (2 Sept. 1984) --- Paul D. Scully-Power, 41-G payload specialist, appears ready to participate in the eight-day space shuttle mission in this photograph taken during a pause in training in the Johnson Space Center's mockup and integration laboratory. The U.S. Navy oceanographer and a Canadian will join five NASA astronauts for a busy stay in space aboard the Challenger next month. The team was practicing for emergency egress. Photo credit: NASA  (Editor's note: Please ignore the odd photo identification number for this image. This is a 41-G training image.)",
+                        "media_type": "image",
+                        "keywords": [
+                            "ASTRONAUT TRAINING",
+                            "HELMETS",
+                            "PAYLOAD SPECIALISTS",
+                            "SPACE SHUTTLE MISSION 41-G SPACE SUITS"
+                        ],
+                        "center": "JSC",
+                        "title": "Payload Specialist Scully-Power in full flight suit with helmet",
+                        "date_created": "1984-09-04T00:00:00Z",
+                        "nasa_id": "41D-3183"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/41D-3183/41D-3183~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s90-48596/collection.json",
+                "data": [
+                    {
+                        "description": "1990 Group 13 Astronaut Candidates (ASCANs) Susan J. Helms (foreground) and William G. Gregory, wearing helmets and flight suits, swim in pool at Elgin Air Force Base (AFB) in Pensacola, Florida, during water survival exercises. The training familiarized the candidates with survival techniques necessary in the event of a water landing. ASCANs participated in the exercises from 08-14-90 through 08-17-90.",
+                        "media_type": "image",
+                        "keywords": [
+                            "ASTRONAUT TRAINING",
+                            "ASTRONAUTS",
+                            "EGRESS",
+                            "ELGIN AIR FORCE BASE",
+                            "FLORIDA",
+                            "HELMETS",
+                            "SPACE FLIGHT TRAINING",
+                            "STS-54",
+                            "SWIMMING"
+                        ],
+                        "center": "JSC",
+                        "title": "ASCANs Helms and Gregory swim in pool during Elgin AFB survival training",
+                        "date_created": "1990-09-20T00:00:00Z",
+                        "nasa_id": "s90-48596"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s90-48596/s90-48596~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/S89-49184/collection.json",
+                "data": [
+                    {
+                        "description": "STS-32 Mission Specialist (MS) Bonnie J. Dunbar, wearing a launch and entry suit (LES) and lauch and entry helmet (LEH), in a single-occupant (one man) lift raft enlists the aid of two SCUBA-equipped divers as she floats in 25 ft deep pool located in JSC's Weightless Environment Training Facility (WETF) Bldg 29. During the exercises the crew practiced the procedures to follow in the event of an emergency aboard the Space Shuttle and familiarized themselves with post-Challenger pole system of emergency egress.",
+                        "media_type": "image",
+                        "keywords": [
+                            "ASTRONAUT TRAINING",
+                            "ASTRONAUTS",
+                            "CREWS",
+                            "FLOATS",
+                            "HELMETS",
+                            "LAUNCH AND ENTRY SUIT",
+                            "LIFE RAFTS",
+                            "PARACHUTES",
+                            "STS-32"
+                        ],
+                        "center": "JSC",
+                        "title": "STS-32 MS Dunbar wearing LES floats in life raft during water egress training",
+                        "date_created": "1989-11-15T00:00:00Z",
+                        "nasa_id": "S89-49184"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/S89-49184/S89-49184~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s93-50705/collection.json",
+                "data": [
+                    {
+                        "description": "S93-50705 (22 Dec 1993) --- Astronaut Kevin P. Chilton, pilot, uses his helmet to bail water from his life raft during emergency bailout training at the Johnson Space Center's (JSC) Weightless Environment Training Facility (WET-F).  Chilton and five other NASA astronauts are scheduled to fly aboard the Space Shuttle Endeavour next year.",
+                        "media_type": "image",
+                        "keywords": [
+                            "ASTRONAUTS",
+                            "ASTRONAUT TRAINING",
+                            "CREWS",
+                            "STS-59",
+                            "EMERGENCIES",
+                            "BAILOUT",
+                            "RESCUE OPERATIONS",
+                            "WATER LANDING",
+                            "LIFE RAFTS",
+                            "LAUNCH ENTRY SUIT"
+                        ],
+                        "center": "JSC",
+                        "title": "Astronaut Kevin P. Chilton uses helmet to bail water during bailout training",
+                        "date_created": "1993-12-22T00:00:00Z",
+                        "nasa_id": "s93-50705"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s93-50705/s93-50705~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s90-38947/collection.json",
+                "data": [
+                    {
+                        "description": "STS-38 Pilot Frank L. Culbertson, wearing launch and entry suit (LES) and launch and entry helmet (LEH), rolls through the side hatch of the crew compartment trainer (CCT) located in JSC's Mockup and Integration Laboratory (MAIL) Bldg 9A. Assisted by technicians, Culbertson practices emergency egress through the side hatch using the crew escape system (CES) pole which extends out the side hatch. The inflated safety cushion breaks Culbertson's fall as he rolls out of the side hatch.",
+                        "media_type": "image",
+                        "keywords": [
+                            "ASTRONAUT TRAINING",
+                            "ASTRONAUTS",
+                            "CREWS",
+                            "EGRESS",
+                            "EMERGENCIES",
+                            "HARNESSES",
+                            "POLES HATCHES",
+                            "HELMETS",
+                            "LAUNCH AND ENTRY SUIT",
+                            "MOCK-UP",
+                            "PARACHUTES",
+                            "PERSONNEL STS-38"
+                        ],
+                        "center": "JSC",
+                        "title": "STS-38 Pilot Culbertson rolls through CCT side hatch during egress training",
+                        "date_created": "1990-03-05T00:00:00Z",
+                        "nasa_id": "s90-38947"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s90-38947/s90-38947~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s90-48620/collection.json",
+                "data": [
+                    {
+                        "description": "1990 Group 13 Astronaut Candidate (ASCAN) Susan J. Helms, wearing helmet with oxygen mask and inflated life jacket, is assisted by training instructor during water survival exercises at Elgin Air Force Base (AFB) in Pensacola, Florida. Helms looks on as the instructor adjusts her parachute harness. When ready, Helms will be dropped from the harness into the pool (in background) to simulate a water landing after T-38 ejection. ASCANs participated in the exercises from 08-14-90 through 08-17-90.",
+                        "media_type": "image",
+                        "keywords": [
+                            "ASTRONAUT TRAINING",
+                            "ASTRONAUTS",
+                            "EGRESS",
+                            "ELGIN AIR FORCE BASE",
+                            "FLOATS",
+                            "STS-54 FLORIDA",
+                            "HARNESSES",
+                            "HELMETS",
+                            "PERSONNEL",
+                            "SPACE FLIGHT TRAINING"
+                        ],
+                        "center": "JSC",
+                        "title": "ASCAN Helms with instructor during Elgin AFB water survival training",
+                        "date_created": "1990-09-20T00:00:00Z",
+                        "nasa_id": "s90-48620"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s90-48620/s90-48620~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/S42-27-037/collection.json",
+                "data": [
+                    {
+                        "description": "STS042-27-037 (22-30 Jan. 1992) --- Astronaut David C. Hilmers, STS-42 mission specialist, wearing a helmet assembly, sits in the Microgravity Vestibular Investigation (MVI) rotating chair.  The scene is in the International Microgravity Laboratory (IML-1) science module aboard Discovery.  Hilmers, a mission specialist, and six other crewmembers spent more than eight days in Earth-orbit conducting experiments. Hilmer's helmet assembly is outfitted with accelerometers to measure head movements and visors that fit over each eye independently to provide visual stimuli.  The chair system has three movement patterns:  \"sinusoidal\" or traveling predictably back and forth over the same distance at a constant speed; \"pseudorandom\" or moving back and forth over the varying distances; and \"stepped\" or varying speeds beginning and stopping suddenly.",
+                        "media_type": "image",
+                        "keywords": [
+                            "ASTRONAUTS",
+                            "CHAIRS",
+                            "CREW EXPERIMENT STATIONS",
+                            "CREW PROCEDURES (INFLIGHT)",
+                            "CREWS",
+                            "DISCOVERY (ORBITER)",
+                            "HELMETS",
+                            "ONBOARD ACTIVITIES",
+                            "SPACELAB",
+                            "STS-42 SPACEBORNE EXPERIMENTS",
+                            "VESTIBULAR TESTS"
+                        ],
+                        "center": "JSC",
+                        "title": "STS-42 Mission Specialist (MS) Hilmers in IML-1's MVI rotator chair",
+                        "date_created": "1992-01-30T00:00:00Z",
+                        "nasa_id": "S42-27-037"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/S42-27-037/S42-27-037~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s102e5152/collection.json",
+                "data": [
+                    {
+                        "description": "STS102-E-5152  (13 March 2001) --- Cosmonaut Yuri P. Gidzenko, now a member of the STS-102 crew, on Discovery's mid deck with extravehicular mobility unit (EMU) space suits.  Gidzenko, representing Rosaviakosmos, had been onboard the International Space Station (ISS) since early November 2000.  The photograph was taken with a digital still camera.",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "Gidzenko with an EMU helmet",
+                        "date_created": "2001-03-13T00:00:00Z",
+                        "nasa_id": "s102e5152"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s102e5152/s102e5152~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s93-36890/collection.json",
+                "data": [
+                    {
+                        "description": "Astronaut Jeffrey A. Hoffman, one of four crewmembers for STS-61 that will conduct scheduled spacewalks during the flight, wears a special helmet and gloves designed to assist in proper positioning near the telescope while on the end of the robot arm. Crewmembers are utilizing a new virtual reality training aid which assists in refining positioning patterns for Space Shuttle Endeavour's Remote Manipulator System (RMS) (36890); Astronaut Claude Nicollier looks at a computer display of the Shuttle's robot arm movements as Thomas D. Akers and Kathryn C. Thornton, mission specialists look on. Nicollier will be responsible for maneuvering the astronauts while they stand in a foot restraint on the end of the RMS arm (36891,36894); Hoffman wears a special helmet and gloves designed to assist in proper positioning near the telescope while on the end of the robot arm (35892); Nicollier looks at a computer display of the Shuttle's robot arm movements as Akers looks on (36893); While (l-r) Astronauts Kenneth Bowersox, Kathryn Thornton, Richard O. Covey and Thomas D. Akers watch, Nicollier moves the Robot arm to desired locations in the Shuttle's payload bay using the Virtual Reality program (36895); Bowersox takes his turn maneuvering the RMS while mission specialist Hoffman, wearing the Virtual Reality helmet, follows his own progress on the end of the robot arm. Crewmembers participating during the training session are (l-r) Astronauts Akers, Hoffman, Bowersox, Nicollier, Covey, and Thornton. In the background, David Homan, an engineer in the JSC Engineering Directorate's Automation and Robotics Division, looks on (36896).",
+                        "media_type": "image",
+                        "keywords": [
+                            "STS-61",
+                            "ASTRONAUTS",
+                            "ASTRONAUT TRAINING",
+                            "VISUAL PERCEPTION",
+                            "HELMETS",
+                            "GLOVES",
+                            "COMPUTER ASSISTED INSTRUCTION",
+                            "COMPUTERIZED SIMULATION",
+                            "MAN MACHINE SYSTEMS"
+                        ],
+                        "center": "JSC",
+                        "title": "STS-61 crew utilizing Virtual Reality in training for HST repair mission",
+                        "date_created": "1993-06-11T00:00:00Z",
+                        "nasa_id": "s93-36890"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s93-36890/s93-36890~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s31-03-024/collection.json",
+                "data": [
+                    {
+                        "description": "STS-31 Mission Specialist (MS) Bruce McCandless II, wearing liquid cooling and ventilation garment (LCVG), works his way out of the extravehicular mobility unit (EMU) lower torso on the middeck of Discovery, Orbiter Vehicle (OV) 103. McCandless was in a standby mode to perform extravehicular activity (EVA) if needed to support Hubble Space Telescope (HST) deployment and post- deployment tasks. None was needed. His helmet and gloves freefloat in the background.",
+                        "media_type": "image",
+                        "keywords": [
+                            "ASTRONAUTS",
+                            "CREW PROCEDURES (INFLIGHT)",
+                            "CREWS",
+                            "DISCOVERY (ORBITER)",
+                            "GLOVES",
+                            "EXTRAVEHICULAR MOBILITY UNITS",
+                            "HELMETS",
+                            "MIDDECK",
+                            "ONBOARD ACTIVITIES",
+                            "STS-31 LIQUID COOLING AND VENTILATION GARMENT"
+                        ],
+                        "center": "JSC",
+                        "title": "STS-31 MS McCandless in LCVG removes EMU lower torso on OV-103's middeck",
+                        "date_created": "1990-04-29T00:00:00Z",
+                        "nasa_id": "s31-03-024"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s31-03-024/s31-03-024~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/S85-41007/collection.json",
+                "data": [
+                    {
+                        "description": "S85-41007 (9 May 1983) --- At NASA's Johnson Space Center, astronaut Sally K. Ride takes a break from training as a mission specialist for NASA's STS-7 spaceflight in Earth orbit.  Photo credit: NASA",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "Sally Ride with Launch and Entry Helmet ",
+                        "date_created": "1985-09-24T00:00:00Z",
+                        "nasa_id": "S85-41007"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/S85-41007/S85-41007~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s102e5048/collection.json",
+                "data": [
+                    {
+                        "description": "STS102-E-5048  (10 March 2001) --- Astronaut Susan J. Helms, STS-102 mission specialist, looks over some supplies on the mid deck.  Helms is one of two astronauts assigned to space walk duties after the Space Shuttle Discovery and the International Space Station (ISS) link in Earth orbit. The photograph was recorded with a digital still camera.",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "Helms with her EMU helmet in the middeck",
+                        "date_created": "2001-03-10T00:00:00Z",
+                        "nasa_id": "s102e5048"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s102e5048/s102e5048~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1969-AC96-0327-2/collection.json",
+                "data": [
+                    {
+                        "description": "RASCAL color helmet mounted display with Oliver Field",
+                        "media_type": "image",
+                        "keywords": [
+                            "RASCAL"
+                        ],
+                        "date_created": "1997-09-25T16:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1969-AC96-0327-2",
+                        "photographer": "Maria Garcia",
+                        "nasa_id": "ARC-1969-AC96-0327-2"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1969-AC96-0327-2/ARC-1969-AC96-0327-2~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1989-AC89-0437-11/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Reality workstation technology (helmet & gloves)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1989-07-14T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1989-AC89-0437-11",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1989-AC89-0437-11"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1989-AC89-0437-11/ARC-1989-AC89-0437-11~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1989-AC89-0437-20/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Reality workstation helmet and gloves",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1989-07-14T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1989-AC89-0437-20",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1989-AC89-0437-20"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1989-AC89-0437-20/ARC-1989-AC89-0437-20~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0040-3/collection.json",
+                "data": [
+                    {
+                        "description": "Robotics Laboratory: Helmet, glove & viewing screen",
+                        "media_type": "image",
+                        "keywords": [
+                            "Robotics Laboratory"
+                        ],
+                        "date_created": "1992-01-22T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC92-0040-3",
+                        "photographer": "JT Heineck",
+                        "nasa_id": "ARC-1992-AC92-0040-3"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0040-3/ARC-1992-AC92-0040-3~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1969-AC96-0327-1/collection.json",
+                "data": [
+                    {
+                        "description": "RASCAL color helmet mounted display with Oliver Field",
+                        "media_type": "image",
+                        "keywords": [
+                            "RASCAL"
+                        ],
+                        "date_created": "1997-09-25T16:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1969-AC96-0327-1",
+                        "photographer": "Maria Garcia",
+                        "nasa_id": "ARC-1969-AC96-0327-1"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1969-AC96-0327-1/ARC-1969-AC96-0327-1~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1969-AC96-0327-3/collection.json",
+                "data": [
+                    {
+                        "description": "RASCAL color helmet mounted display with Oliver Field",
+                        "media_type": "image",
+                        "keywords": [
+                            "RASCAL"
+                        ],
+                        "date_created": "1997-09-25T16:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1969-AC96-0327-3",
+                        "photographer": "Maria Garcia",
+                        "nasa_id": "ARC-1969-AC96-0327-3"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1969-AC96-0327-3/ARC-1969-AC96-0327-3~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1969-AC96-0327-4/collection.json",
+                "data": [
+                    {
+                        "description": "RASCAL color helmet mounted display with Oliver Field",
+                        "media_type": "image",
+                        "keywords": [
+                            "RASCAL"
+                        ],
+                        "date_created": "1997-09-25T16:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1969-AC96-0327-4",
+                        "photographer": "Maria Garcia",
+                        "nasa_id": "ARC-1969-AC96-0327-4"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1969-AC96-0327-4/ARC-1969-AC96-0327-4~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC89-0437-6/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Reality workstation technology (helmet & gloves)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1992-01-22T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC89-0437-6",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1992-AC89-0437-6"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC89-0437-6/ARC-1992-AC89-0437-6~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1989-AC89-0437-9/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Reality workstation technology (helmet & gloves)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1989-07-14T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1989-AC89-0437-9",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1989-AC89-0437-9"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1989-AC89-0437-9/ARC-1989-AC89-0437-9~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s06-06-465/collection.json",
+                "data": [
+                    {
+                        "description": "STS006-06-465 (7 April 1983) --- Three-fourths of the STS-6 astronaut crew appears in this unusual 35mm frame exposed in the airlock of the Earth-orbiting space shuttle Challenger. Astronaut F. Story Musgrave’s helmet visor encompasses all the action in the frame. Dr. Musgrave and astronaut Donald H. Peterson (reflected on right side of the visor) were fully suited in their Extravehicular Mobility Unit (EMU) spacesuits and were participating in EVA preparation exercises. Astronaut Karol J. Bobko, STS-6 pilot, wearing conventional onboard shuttle clothing, photographed the two during their procedures and appears at center of frame. The reversed number (1 and 2 in the mirrored image represent the EVA designations for the two mission specialists. Photo credit: NASA",
+                        "media_type": "image",
+                        "keywords": [
+                            "AIR LOCKS",
+                            "ASTRONAUTS",
+                            "CHALLENGER (ORBITER)",
+                            "CREW PROCEDURES (INFLIGHT)",
+                            "EXTRAVEHICULAR MOBILITY UNITS",
+                            "FOOT RESTRAINTS",
+                            "HELMETS",
+                            "ONBOARD ACTIVITIES STS-6"
+                        ],
+                        "center": "JSC",
+                        "title": "Fully EMU suited MS Peterson and MS Musgrave in airlock",
+                        "date_created": "1983-04-09T00:00:00Z",
+                        "nasa_id": "s06-06-465"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s06-06-465/s06-06-465~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s105e5231/collection.json",
+                "data": [
+                    {
+                        "description": "STS105-E-5231 (16 August 2001) ---  The helmet and torso of astronaut Patrick G. Forrester are featured in this digital still camera's view recorded during early stages of the first space walk on STS-105. Most of the cargo bay of the Space Shuttle Discovery and the aft cabin is reflected in the helmet visor.",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "Forrester in the payload bay during the first EVA",
+                        "date_created": "2001-08-16T00:00:00Z",
+                        "nasa_id": "s105e5231"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s105e5231/s105e5231~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s105e5233/collection.json",
+                "data": [
+                    {
+                        "description": "STS105-E-5233 (16 August 2001) ---  The helmet and torso of astronaut Patrick G. Forrester are featured in this digital still camera's view recorded during early stages of the first space walk on STS-105. Most of the cargo bay of the Space Shuttle Discovery and the aft cabin is reflected in the helmet visor.",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "Forrester in the payload bay during the first EVA",
+                        "date_created": "2001-08-16T00:00:00Z",
+                        "nasa_id": "s105e5233"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s105e5233/s105e5233~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s93-25999/collection.json",
+                "data": [
+                    {
+                        "description": "STS-56 Discovery, Orbiter Vehicle (OV) 103, Commander Kenneth Cameron, (left) and Pilot Stephen S. Oswald, wearing launch and entry suits (LESs) and launch and entry helmets (LEHs), are seated on the forward flight deck of the crew compartment trainer (CCT), a shuttle mockup. Cameron mans the commander station controls and Oswald the pilots station controls during an emergency egress (bailout) simulation. The view was taken from the aft flight deck looking forward and includes Cameron's and Oswald's profiles and the forward flight deck controls and checklists. The CCT is located in JSC's Mockup and Integration Laboratory (MAIL) Bldg 9NE.",
+                        "media_type": "image",
+                        "keywords": [
+                            "ASTRONAUT TRAINING",
+                            "ASTRONAUTS",
+                            "CONTROL BOARDS",
+                            "CREWS",
+                            "FLIGHT DECK",
+                            "HELMETS",
+                            "LAUNCH AND ENTRY SUIT",
+                            "MOCK-UP",
+                            "SEATS",
+                            "SPACE FLIGHT TRAINING",
+                            "STS-56 SPACE SHUTTLE ORBITERS"
+                        ],
+                        "center": "JSC",
+                        "title": "STS-56 Commander Cameron & Pilot Oswald on CCT flight deck in JSC's MAIL",
+                        "date_created": "1992-12-01T00:00:00Z",
+                        "nasa_id": "s93-25999"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s93-25999/s93-25999~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0007-9/collection.json",
+                "data": [
+                    {
+                        "description": "NASA Mars Underwater Rover Phantom 2 TROV (Telepresences Controlled Remotely Operated Vehicle) -  helmet head piece",
+                        "media_type": "image",
+                        "keywords": [
+                            "Mars",
+                            "TROV (Telepresences Controlled Remotely Operated Vehicle)"
+                        ],
+                        "date_created": "1992-01-03T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC92-0007-9",
+                        "photographer": "JT Heineck",
+                        "nasa_id": "ARC-1992-AC92-0007-9"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0007-9/ARC-1992-AC92-0007-9~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s90-38573/collection.json",
+                "data": [
+                    {
+                        "description": "Portrait of Astronaut Frank L. Culbertson dressed in an orange launch/entry suit with his helmet on the table in front of him.",
+                        "media_type": "image",
+                        "keywords": [
+                            "ASTRONAUTS",
+                            "PORTRAIT"
+                        ],
+                        "center": "JSC",
+                        "title": "Portrait of Astronaut Frank L. Culbertson",
+                        "date_created": "1990-05-01T00:00:00Z",
+                        "nasa_id": "s90-38573"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s90-38573/s90-38573~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/AFRC2018-0099-04/collection.json",
+                "data": [
+                    {
+                        "description": "The new Active Noise Reduction system plugs directly from the helmet to a panel inside the aircraft.",
+                        "media_type": "image",
+                        "keywords": [
+                            "Armstrong Flight Research Center",
+                            "AFRC",
+                            "T-34",
+                            "noise reduction",
+                            "Scott “Jelly” Howe"
+                        ],
+                        "date_created": "2018-05-15T00:00:00Z",
+                        "center": "AFRC",
+                        "title": "Can You Hear Me Now?",
+                        "photographer": "NASA/Ken Ulbrich",
+                        "nasa_id": "AFRC2018-0099-04",
+                        "location": "AFRC"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/AFRC2018-0099-04/AFRC2018-0099-04~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-08pd1485/collection.json",
+                "data": [
+                    {
+                        "description": "CAPE CANAVERAL, Fla. --  In the NASA News Center at NASA's Kennedy Space Center, Shuttle Crew Escape System Manager KC Chhipwadia (right) describes for the media the elements of the helmet that is part of the launch and entry suit (seen on the table) used by shuttle crews during their missions.  The helmet provides oxygen when needed plus a communication system.   Photo credit:  NASA/Amanda Diller",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-08pd1485",
+                        "date_created": "2008-05-30T00:00:00Z",
+                        "nasa_id": "KSC-08pd1485",
+                        "location": "Kennedy Space Center, FL"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-08pd1485/KSC-08pd1485~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-08pd1487/collection.json",
+                "data": [
+                    {
+                        "description": "CAPE CANAVERAL, Fla. --  In the NASA News Center at NASA's Kennedy Space Center, Shuttle Crew Escape System Manager KC Chhipwadia describes for the media the elements of the helmet that is part of the launch and entry suit (seen on the table) used by shuttle crews during their missions. The helmet provides oxygen when needed plus a communication system.   Photo credit:  NASA/Amanda Diller",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-08pd1487",
+                        "date_created": "2008-05-30T00:00:00Z",
+                        "nasa_id": "KSC-08pd1487",
+                        "location": "Kennedy Space Center, FL"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-08pd1487/KSC-08pd1487~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/iss006-344-011/collection.json",
+                "data": [
+                    {
+                        "description": "ISS006-344-011 (15 January 2003) --- Astronaut Donald R. Pettit, Expedition 6 NASA ISS science officer, photographs his helmet visor during a session of extravehicular activity (EVA). Pettit&#0146;s arms and camera are visible in the reflection of his helmet visor.  Astronaut Kenneth D. Bowersox, mission commander, is also visible in visor reflection, upper right.",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "View of Bowersox working on Truss during EVA on Expedition Six",
+                        "date_created": "2003-01-15T00:00:00Z",
+                        "nasa_id": "iss006-344-011"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/iss006-344-011/iss006-344-011~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-08pd1486/collection.json",
+                "data": [
+                    {
+                        "description": "CAPE CANAVERAL, Fla. --  In the NASA News Center at NASA's Kennedy Space Center, Shuttle Crew Escape System Manager KC Chhipwadia describes for the media the elements of the helmet that is part of the launch and entry suit (seen on the table) used by shuttle crews during their missions.  He is holding onto the bar that latches to secure the closed visor.  The helmet provides oxygen when needed plus a communication system.   Photo credit:  NASA/Amanda Diller",
+                        "media_type": "image",
+                        "center": "KSC",
+                        "title": "KSC-08pd1486",
+                        "date_created": "2008-05-30T00:00:00Z",
+                        "nasa_id": "KSC-08pd1486",
+                        "location": "Kennedy Space Center, FL"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/KSC-08pd1486/KSC-08pd1486~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1988-AC88-0089-2/collection.json",
+                "data": [
+                    {
+                        "description": "Crew Station Research and Developement Facility (CSRDF) A NASA Army simulator to design and evaluate advanced rotorcraft showing fiber optic helmet & workstation",
+                        "media_type": "image",
+                        "date_created": "1988-02-01T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1988-AC88-0089-2",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1988-AC88-0089-2"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1988-AC88-0089-2/ARC-1988-AC88-0089-2~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1988-AC88-0089-9/collection.json",
+                "data": [
+                    {
+                        "description": "Crew Station Research and Developement Facility (CSRDF) A NASA Army simulator to design and evaluate advanced rotorcraft showing fiber optic helmet & workstation",
+                        "media_type": "image",
+                        "date_created": "1988-02-01T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1988-AC88-0089-9",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1988-AC88-0089-9"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1988-AC88-0089-9/ARC-1988-AC88-0089-9~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-24/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Telepresence workstation, simulated Mars Exploration shows Dr Michael McGreevy with virtual helmet and EXOS Dexterous interface (holding rock invirtual hand)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1992-05-29T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC92-0326-24",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1992-AC92-0326-24"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-24/ARC-1992-AC92-0326-24~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-3/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Telepresence workstation, simulated Mars Exploration shows Lewis Hitchner with virtual helmet and  EXOS Dexterous interface (virtual hand)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1992-05-29T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC92-0326-3",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1992-AC92-0326-3"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-3/ARC-1992-AC92-0326-3~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-6/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Telepresence workstation, simulated Mars Exploration shows Dr Michael McGreevy with virtual helmet and EXOS Dexterous interface (holding rock in virtual hand)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1992-05-29T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC92-0326-6",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1992-AC92-0326-6"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-6/ARC-1992-AC92-0326-6~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC94-0326-13/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Telepresence workstation, simulated Mars Exploration shows Lewis Hitchner with virtual helmet and  EXOS Dexterous interface (virtual hand)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1992-05-29T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC94-0326-13",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1992-AC94-0326-13"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC94-0326-13/ARC-1992-AC94-0326-13~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC94-0326-14/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Telepresence workstation, simulated Mars Exploration shows Lewis Hitchner with virtual helmet and  EXOS Dexterous interface (virtual hand)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1992-05-29T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC94-0326-14",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1992-AC94-0326-14"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC94-0326-14/ARC-1992-AC94-0326-14~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/b59-00587/collection.json",
+                "data": [
+                    {
+                        "description": "B59-00587 (1959) --- Astronaut Virgil (Gus) Grissom is pictured leaving a U.S. Navy installation and removing his helmet. Photo credit: NASA",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "b59-00587",
+                        "date_created": "1959-10-01T00:00:00Z",
+                        "nasa_id": "b59-00587"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/b59-00587/b59-00587~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/iss063e052704/collection.json",
+                "data": [
+                    {
+                        "description": "iss063e052704 (July 21, 2020) --- NASA spacewalker Bob Behnken takes a \"space-selfie\" with his helmet visor up on his U.S. spacesuit.",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "iss063e052704",
+                        "date_created": "2020-07-21T00:00:00Z",
+                        "nasa_id": "iss063e052704"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/iss063e052704/iss063e052704~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/S61-01490/collection.json",
+                "data": [
+                    {
+                        "description": "S61-01490 (4 April 1961) --- Astronaut Virgil Grissom photographed in the new Mercury spacesuit, holding his helmet. Photo credit: NASA",
+                        "media_type": "image",
+                        "date_created": "1961-01-01T00:00:00Z",
+                        "center": "JSC",
+                        "title": "GRISSOM, GUS - PRESSURE SUIT",
+                        "photographer": "N/A",
+                        "nasa_id": "S61-01490"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/S61-01490/S61-01490~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1988-AC88-0089-5/collection.json",
+                "data": [
+                    {
+                        "description": "Crew Station Research and Developement Facility (CSRDF) A NASA Army simulator to design and evaluate advanced rotorcraft showing fiber optic helmet & workstation",
+                        "media_type": "image",
+                        "date_created": "1988-02-01T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1988-AC88-0089-5",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1988-AC88-0089-5"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1988-AC88-0089-5/ARC-1988-AC88-0089-5~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-1/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Telepresence workstation, simulated Mars Exploration shows Lewis Hitchner with virtual helmet and  EXOS Dexterous interface (virtual hand)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1992-05-29T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC92-0326-1",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1992-AC92-0326-1"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-1/ARC-1992-AC92-0326-1~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-2/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Telepresence workstation, simulated Mars Exploration shows Lewis Hitchner with virtual helmet and  EXOS Dexterous interface (virtual hand)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1992-05-29T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC92-0326-2",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1992-AC92-0326-2"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-2/ARC-1992-AC92-0326-2~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-20/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Telepresence workstation, simulated Mars Exploration shows Lewis Hitchner with virtual helmet and  EXOS Dexterous interface (virtual hand)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1992-05-29T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC92-0326-20",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1992-AC92-0326-20"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-20/ARC-1992-AC92-0326-20~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-22/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Telepresence workstation, simulated Mars Exploration shows Dr Michael McGreevy with virtual helmet and EXOS Dexterous interface (holding rock invirtual hand)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1992-05-29T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC92-0326-22",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1992-AC92-0326-22"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-22/ARC-1992-AC92-0326-22~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-4/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Telepresence workstation, simulated Mars Exploration shows Lewis Hitchner with virtual helmet and EXOS Dexterous interface (virtual hand)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1992-05-29T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC92-0326-4",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1992-AC92-0326-4"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-4/ARC-1992-AC92-0326-4~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-5/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Telepresence workstation, simulated Mars Exploration shows Dr Michael McGreevy with virtual helmet and EXOS Dexterous interface (holding rock invirtual hand)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1992-05-29T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC92-0326-5",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1992-AC92-0326-5"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-5/ARC-1992-AC92-0326-5~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-8/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Telepresence workstation, simulated Mars Exploration shows Lewis Hitchner with virtual helmet and  EXOS Dexterous interface (virtual hand)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1992-05-29T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC92-0326-8",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1992-AC92-0326-8"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-8/ARC-1992-AC92-0326-8~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC94-0326-11/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Telepresence workstation, simulated Mars Exploration shows Lewis Hitchner with virtual helmet and  EXOS Dexterous interface (virtual hand)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1992-05-29T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC94-0326-11",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1992-AC94-0326-11"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC94-0326-11/ARC-1992-AC94-0326-11~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC94-0326-12/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Telepresence workstation, simulated Mars Exploration shows Lewis Hitchner with virtual helmet and  EXOS Dexterous interface (virtual hand)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1992-05-29T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC94-0326-12",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1992-AC94-0326-12"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC94-0326-12/ARC-1992-AC94-0326-12~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/iss048e061989/collection.json",
+                "data": [
+                    {
+                        "description": "The camera is reflected in his helmet visor as Extravehicular crewmember 1 (EV1) Jeff Williams takes a self-portrait during Extravehicular Activity 36 (EVA 36).",
+                        "media_type": "image",
+                        "keywords": [
+                            "ISS",
+                            "EVA"
+                        ],
+                        "date_created": "2016-08-19T00:00:00Z",
+                        "center": "JSC",
+                        "title": "Williams takes a Self-Portrait during EVA 36",
+                        "photographer": "Jeff Williams",
+                        "nasa_id": "iss048e061989"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/iss048e061989/iss048e061989~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/iss063e033403/collection.json",
+                "data": [
+                    {
+                        "description": "iss063e033403 (June 26, 2020) --- A spacewalker's spacesuit gloves and camera are reflected in the helmet visor in this \"space-selfie\" taken during a six-hour and seven-minute spacewalk.",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "iss063e033403",
+                        "date_created": "2020-06-26T00:00:00Z",
+                        "nasa_id": "iss063e033403"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/iss063e033403/iss063e033403~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/S61-02733/collection.json",
+                "data": [
+                    {
+                        "description": "S61-02733 (28 July 1961) --- Table top view of some of the Mercury suit components including gloves, boots and helmet. Photo credit: NASA",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "SUIT - MERCURY-3 (MR-3) - GLOVES - COMPONENTS",
+                        "date_created": "1961-05-01T00:00:00Z",
+                        "nasa_id": "S61-02733"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/S61-02733/S61-02733~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/jsc2018e038155_alt/collection.json",
+                "data": [
+                    {
+                        "description": "(April 20, 2018) -- Portrait view of Expedition 57/58 Crew Member Nick Hague wearing EMU helmet. Photo credit: NASA/Josh Valcarcel",
+                        "media_type": "image",
+                        "date_created": "2018-05-31T00:00:00Z",
+                        "center": "JSC",
+                        "album": [
+                            "2018_NASA_Photographer_of_the_Year"
+                        ],
+                        "title": "Expedition 57/58 Crew Member Nick Hague.",
+                        "photographer": "Josh Valcarcel – NASA – John",
+                        "nasa_id": "jsc2018e038155_alt"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/jsc2018e038155_alt/jsc2018e038155_alt~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-21/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Telepresence workstation, simulated Mars Exploration shows Lewis Hitchner with virtual helmet and EXOS Dexterous interface (virtual hand)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1992-05-29T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC92-0326-21",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1992-AC92-0326-21"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-21/ARC-1992-AC92-0326-21~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-23/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Telepresence workstation, simulated Mars Exploration shows Dr Michael McGreevy with virtual helmet and EXOS Dexterous interface (holding rock invirtual hand)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1992-05-29T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC92-0326-23",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1992-AC92-0326-23"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-23/ARC-1992-AC92-0326-23~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-7/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Telepresence workstation, simulated Mars Exploration shows Lewis Hitchner with virtual helmet and  EXOS Dexterous interface (virtual hand)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1992-05-29T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC92-0326-7",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1992-AC92-0326-7"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-7/ARC-1992-AC92-0326-7~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-9/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Telepresence workstation, simulated Mars Exploration shows Lewis Hitchner with virtual helmet and  EXOS Dexterous interface (virtual hand)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1992-05-29T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC92-0326-9",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1992-AC92-0326-9"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC92-0326-9/ARC-1992-AC92-0326-9~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ARC-1992-AC94-0326-15/collection.json",
+                "data": [
+                    {
+                        "description": "Virtual Environment Telepresence workstation, simulated Mars Exploration shows Lewis Hitchner with virtual helmet and  EXOS Dexterous interface (virtual hand)",
+                        "media_type": "image",
+                        "keywords": [
+                            "Virtual Environment"
+                        ],
+                        "date_created": "1992-05-29T00:00:00Z",
+                        "center": "ARC",
+                        "title": "ARC-1992-AC94-0326-15",
+                        "photographer": "Wade Sisler",
+                        "nasa_id": "ARC-1992-AC94-0326-15"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/ARC-1992-AC94-0326-15/ARC-1992-AC94-0326-15~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s105e5318/collection.json",
+                "data": [
+                    {
+                        "description": "STS105-E-5318 (16 August 2001) --- Astronaut Daniel T. Barry, mission specialist, pauses for this close-up view during the first of two scheduled STS-105 space walks. This image was recorded with a digital still camera.",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "Close-up view of Barry and his EMU helmet",
+                        "date_created": "2001-08-16T00:00:00Z",
+                        "nasa_id": "s105e5318"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s105e5318/s105e5318~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/iss039e014878/collection.json",
+                "data": [
+                    {
+                        "description": "ISS039-E-014878 (22 April 2014) --- Part of the upper body of NASA astronaut Rick Mastracchio is pictured in a \"selfie\" or self-portrait during a spacewalk to replace a failed backup computer relay box in the S0 truss of the International Space Station on April 22, 2014.  He was accompanied on the spacewalk by fellow Flight Engineer Steve Swanson of NASA.",
+                        "media_type": "image",
+                        "keywords": [
+                            "EXPEDITION 39",
+                            "ASTRONAUTS",
+                            "EXTRAVEHICULAR ACTIVITY",
+                            "TWEETED PHOTO",
+                            "SOCIAL MEDIA"
+                        ],
+                        "date_created": "2014-04-23T00:00:00Z",
+                        "center": "JSC",
+                        "title": "Mastracchio photographs his helmet during EVA 26",
+                        "photographer": "Rick Mastracchio",
+                        "nasa_id": "iss039e014878"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/iss039e014878/iss039e014878~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/S84-27022/collection.json",
+                "data": [
+                    {
+                        "description": "S84-27022 (7 Feb 1984) --- A 35mm frame from the February 7, 1984, extravehicular activity (EVA) photographed with a camera affixed to the gear of astronaut Bruce McCandless II.  The mission specialist was equipped with the nitrogen-propelled, hand-controlled Manned Maneuvering Unit (MMU), which took him some 90 meters away from the Space Shuttle Challenger.  This scene is reminiscent of views of the Challenger during the June 1983, STS-7 flight, on which the Shuttle Pallet Satellite (SPAS - seen here in the middle of the cargo bay) provided scenes of 38-meter-long reusable vehicle over the Earth.",
+                        "media_type": "image",
+                        "keywords": [
+                            "ANTENNAS",
+                            "ASTRONAUTS",
+                            "CHALLENGER (ORBITER)",
+                            "EXTRAVEHICULAR ACTIVITY",
+                            "GET AWAY SPECIALS (STS)",
+                            "PAYLOAD BAY",
+                            "REMOTE MANIPULATOR SYSTEM",
+                            "SATELLITES SHUTTLE PALLET SATELLITES",
+                            "SPACE SHUTTLE MISSION 41-B"
+                        ],
+                        "center": "JSC",
+                        "title": "View of the Challenger from the fixed camera in McCandless's helmet",
+                        "date_created": "1984-02-11T00:00:00Z",
+                        "nasa_id": "S84-27022"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/S84-27022/S84-27022~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/iss036e037249/collection.json",
+                "data": [
+                    {
+                        "description": "ISS036-E-037249 (27 Aug. 2013) --- The Extravehicular Mobility Unit (EMU) spacesuit helmet ? worn by European Space Agency astronaut Luca Parmitano during a July 16 spacewalk that was cut short when the helmet began to fill with water ? is captured in a close-up image in the Quest airlock of the International Space Station. After assembling and powering up the empty suit as if it were about to go out on another spacewalk, Parmitano and NASA astronaut Chris Cassidy (both out of frame), both Expedition 36 flight engineers, observed water once again leaking into the helmet. With the issue reproduced, NASA now has a baseline configuration for the crew to begin swapping out parts for additional tests to pinpoint the problem. There are also opportunities to either launch replacement parts on upcoming cargo flights or return parts to Earth for further study once more is known about the cause of the issue.",
+                        "media_type": "image",
+                        "date_created": "2013-08-27T00:00:00Z",
+                        "center": "JSC",
+                        "title": "Quest airlock with malfunctioning EMU",
+                        "photographer": "Karen Nyberg",
+                        "nasa_id": "iss036e037249"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/iss036e037249/iss036e037249~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s98-07962/collection.json",
+                "data": [
+                    {
+                        "description": "Photographic documentation of the STS-95 crew emergency egress training at the bldg 9A Full Fuselage Trainer (FFT). Views include: Mission specialist Senator John Glenn (in his orange Launch and Landing (LES) suit) is photographed by his wife as other visitors look on (07958). STS-95 crewmember prepares to use the Sky Genie to climb down the side of the FFT (07959). STS-95 crew lines up to pose for pictures in their LES's. Left to right are: Mission specialist Pedro Duque, payload specialist Chiaki Mukai, commander Curt Brown, payload specialist U.S. Senator John Glenn, mission specialist Stephen Robinson, pilot Steven Lindsey, and mission specialist Scott F. Parazynski (07960). Parazynski, Glenn and Robinson talk while their photo is being taken (07961). Mukai receives assistance from suit techs in donning her LES helmet (07962). Glenn receives assistance from suit techs in donning his LES helmet (07963). Glenn, in his LES, walks toward the FFT (07964). Glenn uses the Sky Genie to prepare to climb down the side of the FFT (07965). View of Mrs. Annie Glenn watching her husband during training (07966). Mukai receives assistance from a suit tech with her LES while Glenn watches (07967). Close-up view of Mukai in her LES without a helmet (07968). Glenn and Mukai prepare to strap themselves into their seats in the mockup of the FFT middeck (07969-70). Close-up view of Mukai with her helmet on (07971). Mukai climbs down the rope with help from a technician on the ground (07972). Lindsey, Parazynski, Duque, Mukai and Glenn are photographed seated, waiting for training (07973). Close-up of Duque without his helmet (07974). Close-up of Lindsey with his helmet on, talking to a trainer (07975-6). View of Lindsey climbing down the rope (07977).",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "STS-95 crew training - emergency egress training at bldg 9",
+                        "date_created": "1998-06-01T00:00:00Z",
+                        "nasa_id": "s98-07962"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s98-07962/s98-07962~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s98-07972/collection.json",
+                "data": [
+                    {
+                        "description": "Photographic documentation of the STS-95 crew emergency egress training at the bldg 9A Full Fuselage Trainer (FFT). Views include: Mission specialist Senator John Glenn (in his orange Launch and Landing (LES) suit) is photographed by his wife as other visitors look on (07958). STS-95 crewmember prepares to use the Sky Genie to climb down the side of the FFT (07959). STS-95 crew lines up to pose for pictures in their LES's. Left to right are: Mission specialist Pedro Duque, payload specialist Chiaki Mukai, commander Curt Brown, payload specialist U.S. Senator John Glenn, mission specialist Stephen Robinson, pilot Steven Lindsey, and mission specialist Scott F. Parazynski (07960). Parazynski, Glenn and Robinson talk while their photo is being taken (07961). Mukai receives assistance from suit techs in donning her LES helmet (07962). Glenn receives assistance from suit techs in donning his LES helmet (07963). Glenn, in his LES, walks toward the FFT (07964). Glenn uses the Sky Genie to prepare to climb down the side of the FFT (07965). View of Mrs. Annie Glenn watching her husband during training (07966). Mukai receives assistance from a suit tech with her LES while Glenn watches (07967). Close-up view of Mukai in her LES without a helmet (07968). Glenn and Mukai prepare to strap themselves into their seats in the mockup of the FFT middeck (07969-70). Close-up view of Mukai with her helmet on (07971). Mukai climbs down the rope with help from a technician on the ground (07972). Lindsey, Parazynski, Duque, Mukai and Glenn are photographed seated, waiting for training (07973). Close-up of Duque without his helmet (07974). Close-up of Lindsey with his helmet on, talking to a trainer (07975-6). View of Lindsey climbing down the rope (07977).",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "STS-95 crew training - emergency egress training at bldg 9",
+                        "date_created": "1998-06-01T00:00:00Z",
+                        "nasa_id": "s98-07972"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s98-07972/s98-07972~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/AFRC2018-0257-03/collection.json",
+                "data": [
+                    {
+                        "description": "NASA Pilot Nils Larson wears a U.S. Air Force harness configuration with a helmet and an oxygen mask that is being used in the Pilot Breathing Assessment program at NASA's Armstrong Flight Research Center in California.",
+                        "media_type": "image",
+                        "keywords": [
+                            "Armstrong Flight Research Center",
+                            "AFRC",
+                            "Pilot Breathing Assessment",
+                            "Life Support"
+                        ],
+                        "date_created": "2018-10-12T00:00:00Z",
+                        "center": "AFRC",
+                        "title": "U.S. Air Force Harness Configuration",
+                        "photographer": "NASA/Carla Thomas",
+                        "nasa_id": "AFRC2018-0257-03",
+                        "location": "AFRC"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/AFRC2018-0257-03/AFRC2018-0257-03~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/iss042e283219/collection.json",
+                "data": [
+                    {
+                        "description": "The camera is reflected in his helmet visor as Extravehicular crewmember 2 (EV2) Terry Virts takes a self-portrait during Extravehicular Activity 29 (EVA 29). Image was released by astronaut on Twitter.",
+                        "media_type": "image",
+                        "keywords": [
+                            "ASTRONAUTS",
+                            "EXTRAVEHICULAR ACTIVITY",
+                            "TWEETED PHOTO",
+                            "SOCIAL MEDIA"
+                        ],
+                        "date_created": "2015-02-21T14:58:04Z",
+                        "center": "JSC",
+                        "title": "Virts Self-Portrait during EVA 29",
+                        "photographer": "Terry Virts",
+                        "nasa_id": "iss042e283219"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/iss042e283219/iss042e283219~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/S83-43688/collection.json",
+                "data": [
+                    {
+                        "description": "Portrait photographs of STS-11/41B Crewman Robert L. Stewart, wearing the Extravehicular Maneuvering Unit (EMU) with the Manned Manuevering Unit (MMU) attached, and without helmet.",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "PORTRAIT - ASTRONAUT STEWART, ROBERT L.",
+                        "date_created": "1983-11-15T00:00:00Z",
+                        "nasa_id": "S83-43688"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/S83-43688/S83-43688~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/iss063e033672/collection.json",
+                "data": [
+                    {
+                        "description": "iss063e033672 (June 28, 2020) --- NASA astronaut and Expedition 63 Commander Chris Cassidy shows off the helmet of a U.S. spacesuit during maintenance inside the Quest airlock.",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "photographer": "Chris Cassidy",
+                        "title": "Cassidy in the A/L",
+                        "date_created": "2020-06-28T00:00:00Z",
+                        "nasa_id": "iss063e033672"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/iss063e033672/iss063e033672~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/iss018e014429/collection.json",
+                "data": [
+                    {
+                        "description": "ISS018-E-014429 (23 Dec. 2008) Astronaut Michael Fincke, Expedition 18 commander, takes a picture of his own helmet visor with a digital still camera during a Dec. 23 spacewalk on the International Space Station.",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "Visor reflection self portrait during Russian Extravehicular Activity (EVA) 21",
+                        "date_created": "2008-12-23T00:00:00Z",
+                        "nasa_id": "iss018e014429"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/iss018e014429/iss018e014429~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/iss042e283178/collection.json",
+                "data": [
+                    {
+                        "description": "Extravehicular crewmember 2 (EV2) Terry Virts is reflected in the helmet visor of EV1 Barry Wilmore during Extravehicular Activity 29 (EVA 29). Image was released by astronaut on Twitter.",
+                        "media_type": "image",
+                        "keywords": [
+                            "ASTRONAUTS",
+                            "EXTRAVEHICULAR ACTIVITY",
+                            "TWEETED PHOTO",
+                            "SOCIAL MEDIA"
+                        ],
+                        "date_created": "2015-02-21T17:52:49Z",
+                        "center": "JSC",
+                        "title": "Wilmore and Virts during EVA 29",
+                        "photographer": "Terry Virts",
+                        "nasa_id": "iss042e283178"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/iss042e283178/iss042e283178~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/S81-33238/collection.json",
+                "data": [
+                    {
+                        "description": "Portrait view of astronaut Jack Lousma in the Extravehicular Mobility Unit (EMU) at bldg 29 Weightless Environment Training Facility (WETF). He is wearing the EMU minus the helmet.",
+                        "media_type": "image",
+                        "keywords": [
+                            "ASTRONAUT TRAINING",
+                            "ASTRONAUTS",
+                            "EXTRAVEHICULAR MOBILITY UNITS",
+                            "WEIGHTLESS ENVIRONMENT TRAINING"
+                        ],
+                        "center": "JSC",
+                        "title": "View of astronaut Jack Lousma in the Shuttle spacesuits (EMU) at bldg 29",
+                        "date_created": "1981-06-24T00:00:00Z",
+                        "nasa_id": "S81-33238"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/S81-33238/S81-33238~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/AFRC2018-0099-02/collection.json",
+                "data": [
+                    {
+                        "description": "The black circle inside the helmet on the right contains some of the new elements of a noise reduction headphone that is part of an Active Noise Reduction system. It helps pilots hear better and improve communication during flight research missions.",
+                        "media_type": "image",
+                        "keywords": [
+                            "Armstrong Flight Research Center",
+                            "AFRC",
+                            "T-34",
+                            "noise reduction",
+                            "Scott â€œJellyâ€ Howe"
+                        ],
+                        "date_created": "2018-05-15T00:00:00Z",
+                        "center": "AFRC",
+                        "title": "Can You Hear Me Now?",
+                        "photographer": "NASA/Ken Ulbrich",
+                        "nasa_id": "AFRC2018-0099-02",
+                        "location": "AFRC"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/AFRC2018-0099-02/AFRC2018-0099-02~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s61-02845/collection.json",
+                "data": [
+                    {
+                        "description": "S61-02845 (1961) --- Portrait of astronaut Virgil I. (Gus) Grissom in his pressure suit and wearing his helmet in Hangar S at Cape Canaveral, Florida before the Mercury-Redstone 4 mission. Photo credit: NASA",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "Astronaut Grissom dons spacesuit for Mercury-Redstone 4 mission",
+                        "date_created": "1961-07-19T00:00:00Z",
+                        "nasa_id": "s61-02845"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s61-02845/s61-02845~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s65-20602/collection.json",
+                "data": [
+                    {
+                        "description": "S65-20602 (23 March 1965) --- Astronaut John W. Young, the pilot of the GT-3 three-orbit mission, adjusts his helmet in the Gemini ready room at Pad 16 during the suiting for the flight.",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "SUITED UP - ASTRONAUT JOHN W. YOUNG - MISC.",
+                        "date_created": "1965-03-23T00:00:00Z",
+                        "nasa_id": "s65-20602"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s65-20602/s65-20602~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/s65-23488/collection.json",
+                "data": [
+                    {
+                        "description": "S65-23488 (23 March 1965) --- Astronaut John W. Young, pilot of the Gemini-Titan 3 space flight, checks over his helmet during suiting operations in the suiting trailer at Pad 16 prior to flight.",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "GEMINI-TITAN (GT)-III - SUITING-UP - CAPE",
+                        "date_created": "1965-03-23T00:00:00Z",
+                        "nasa_id": "s65-23488"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/s65-23488/s65-23488~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/S72-37001/collection.json",
+                "data": [
+                    {
+                        "description": "S72-37001 (25 April 1972) --- Astronaut Thomas K. Mattingly II, command module pilot, performs an extravehicular activity (EVA) during the Apollo 16 trans-Earth coast. Mattingly is assisted by astronaut Charles M. Duke Jr., lunar module pilot. Mattingly inspected the SIM Bay or Service Module (SM), and retrieved film from the Mapping and Panoramic Cameras. Mattingly is wearing the helmet of astronaut John W. Young, commander. The helmet's lunar EVA visor assembly helped protect Mattingly's eyes from the bright sun. This view is a frame from motion picture film exposed by a 16mm Maurer camera.",
+                        "media_type": "image",
+                        "center": "JSC",
+                        "title": "INFLIGHT - APOLLO 16",
+                        "date_created": "1972-04-01T00:00:00Z",
+                        "nasa_id": "S72-37001"
+                    }
+                ],
+                "links": [
+                    {
+                        "render": "image",
+                        "href": "https://images-assets.nasa.gov/image/S72-37001/S72-37001~thumb.jpg",
+                        "rel": "preview"
+                    }
+                ]
+            }
+        ]
+    }
+}

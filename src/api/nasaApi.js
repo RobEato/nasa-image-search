@@ -1,7 +1,7 @@
 import NodeFetch from 'node-fetch';
 
 const search = (query) => {
-    return NodeFetch(`https://images-api.nasa.gov?q=${query}`)
+    return NodeFetch(`https://images-api.nasa.gov/search?q=${query}`)
         .then(res => res.json());
 };
 

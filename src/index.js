@@ -4,7 +4,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import nasaApi from './api/nasaApi';
 
-import './index.css';
+import './index.scss';
 
 ReactDOM.render(
   <React.StrictMode>

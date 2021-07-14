@@ -1,0 +1,14 @@
+.nasa-main {
+    min-height: 100vh;
+    
+    &-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 1rem;
+    }
+
+    &-title {
+        margin-bottom: 2rem;
+    } 
+}
