@@ -2,11 +2,11 @@ import React, { useState, useEffect } from 'react';
 
 import NasaSearch from './components/NasaSearch';
 import NasaSearchResults from './components/NasaSearchResults';
+import NasaAsset from './components/NasaAsset';
 
 import LoadingSpinner from './Shared/LoadingSpinner/LoadingSpinner';
 
 import './App.scss';
-import NasaAsset from './components/NasaAsset';
 
 const App = ({ nasaApi }) => {
 
@@ -20,8 +20,18 @@ const App = ({ nasaApi }) => {
         setLoading(true);
         setNoSearchQueryError(false);
 
+        let mediaType = 'image' + ',video'; // eslint-disable-line no-useless-concat
+
+        if (imageSearch && !videoSearch) {
+            mediaType = 'image';
+        }
+
+        if (!imageSearch && videoSearch) {
+            mediaType = 'video';
+        }
+
         if (searchTerm) {
-            return nasaApi.search({ q: searchTerm, media_type: 'image', page: pageNumber })
+            return nasaApi.search({ q: searchTerm, media_type: mediaType, page: pageNumber })
                 .then(result => {
                     setSearchResults(result.collection);
                 });
@@ -32,11 +42,8 @@ const App = ({ nasaApi }) => {
         }
     };
 
-    const selectAsset = (assetId) => {
-        return nasaApi.getAsset(assetId)
-            .then(result => {
-                setAssetToView(result);
-            });
+    const selectAsset = (asset) => {
+        setAssetToView(asset);
     };
 
     useEffect(() => {
@@ -48,7 +55,7 @@ const App = ({ nasaApi }) => {
             <div className='nasa-main__container'>
                 {
                     assetToView ?
-                        <NasaAsset asset={assetToView} /> :
+                        <NasaAsset asset={assetToView} setAssetToView={setAssetToView} api={nasaApi} /> :
                         <>
                             <h1 className='nasa-main__title'>NASA Search</h1>
                             <NasaSearch submitSearch={submitSearch} />
